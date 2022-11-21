@@ -19,9 +19,9 @@ const About = () => {
     <div>
       <Navbar />
       <PageCard
-        title={"ABOUT"}
+        title={"College of Engineering About"}
         desc={
-          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of(The Extremes of Good and Evil) by Cicero, written in 45 BC."
+          "Annual Reports : The Annual Report highlights research and education initiatives as well as faculty and student accomplishments. There is a an Annual Report for the overall College of Engineering, as well as one for each of the five engineering departments. The College of Engineering houses engineering departments in core disciplines focused on research and education, as well as in applied areas of study. Departments collaborate across the college and the university, providing students an interdisciplinary education. Additional graduate offerings are available through the Gordon Institute of Engineering Leadership. Additional undergraduate program offerings are available through the Lowell Institute School, part of Northeasterns College of Professional Studies."
         }
       />
       <div className={classes.cardContainer}>

@@ -7,9 +7,9 @@ const Jobs = () => {
     <div>
       <Navbar />
       <PageCard
-        title={"Jobs Page"}
+        title={"College of Engineering Jobs Page"}
         desc={
-          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of(The Extremes of Good and Evil) by Cicero, written in 45 BC."
+          "The College of Engineering offers more than 65 undergraduate and graduate engineering degree programs at the BS, MS, and PhD level, as well as a wide range of minors and graduate certificates, including the Gordon Engineering Leadership Program which can be combined with any masters degree. Undergraduate students enrolled at Northeastern can participate in the PlusOne accelerated masters degree program. In addition to our Boston campus, some graduate programs are offered throughout the global university network."
         }
       />
     </div>

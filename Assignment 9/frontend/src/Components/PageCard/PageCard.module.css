@@ -3,7 +3,12 @@
     border:1px solid black;
     padding:20px;
     text-align: center;
+    color: rgb(26, 18, 18);
+    background-color: grey;
+    margin-top: 4%;
+
 }
 .Container div{
     margin-top:20px;
+    background-color: grey;
 }
